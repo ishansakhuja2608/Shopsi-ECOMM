@@ -1,4 +1,4 @@
-## Access the Webpage using the following link: - https://ishansakhuja2608.github.io/
+## Access the Webpage using the following link: - https://ishansakhuja2608.github.io/Shopsi-ECOMM/
 
 # Getting Started with Create React App
 
